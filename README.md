@@ -1,4 +1,4 @@
-# 🌸 FemCare – PCOD Risk Assessment Tool
+# 🌸 FemCare – pcod_prediction
 
 A machine learning-powered web application that helps women estimate their **Polycystic Ovarian Disease (PCOD) risk** using common health indicators, lifestyle habits, and symptoms.
 
